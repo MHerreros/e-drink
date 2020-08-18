@@ -1,7 +1,6 @@
-var express=require('express');
+var express = require('express');
 var cors = require('cors');
-var app=express();//a express le digo a que quiero que escuche
-asd
+var app = express();//a express le digo a que quiero que escuche
 
 app.use(cors());
 app.use(express.json());

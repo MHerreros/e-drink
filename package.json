@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "Proyecto final de carrera. E-DRINK",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHerreros/e-drink.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHerreros/e-drink/issues"
+  },
+  "homepage": "https://github.com/MHerreros/e-drink#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongodb": "^3.6.0",
+    "morgan": "^1.10.0"
+  }
+}
